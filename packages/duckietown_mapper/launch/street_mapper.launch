@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="duckietown_mapper" type="street_mapper_node.py" name="street_mapper_node" output="screen"/>
+</launch>
